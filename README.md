@@ -1,1 +1,2 @@
-# Social-News-Program
+# Social News Program
+
